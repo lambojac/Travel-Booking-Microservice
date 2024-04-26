@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Travel Booking Microservices
 
 This repository demonstrates a microservices architecture using **NestJS**. The project consists of several distinct services, each serving a specific purpose. Let's dive into the details:
@@ -90,3 +91,7 @@ To get started with the Travel Booking System, follow the instructions provided 
 2. Install dependencies for each service.
 3. Configure environment variables (e.g., database connections, RabbitMQ settings).
 4. Run services using `npm run start:service-name`.
+=======
+# flight-booking
+This app is a flight microservice booking app
+>>>>>>> 8f1c8d1eb40cc0e5450d04a1de87ff9021a164c1
